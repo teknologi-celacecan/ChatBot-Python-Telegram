@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-BOT_TOKEN = "" # TODO: put your bot token here
+BOT_TOKEN = "8918199417:AAGbYRiuamtIts1h97OmgTjTu9MXIl0eT_8" # TODO: put your bot token here
 
 import logging
 import random
